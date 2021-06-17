@@ -66,7 +66,7 @@ jQuery(document).ready(function ($) {
     $("#medium-rss-feeds").rss(
 
         //Change this to your own rss feeds
-        ["https://medium.com/feed/@subirverma"],
+        ["https://medium.com/feed/@nandhu.elan"],
 
         {
             // how many entries do you want?
